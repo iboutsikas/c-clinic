@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1) Everything is bytes", "C Clinic\C Clinic.vcxproj", "{DFD6AE6D-767F-4439-903A-88A475C9BD73}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1) Everything is bytes", "1) Everything is bytes\1) Everything is bytes.vcxproj", "{DFD6AE6D-767F-4439-903A-88A475C9BD73}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2) sizeof", "2) sizeof\2) sizeof.vcxproj", "{8A5D3EBF-E977-4AAF-A079-8176FACE6A81}"
 EndProject
