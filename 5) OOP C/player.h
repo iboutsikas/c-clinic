@@ -5,6 +5,7 @@ typedef struct player {
 	int attack;
 	int x;
 	int y;
+	int is_alive;
 } player_t;
 
 void constructor(player_t* this, int x, int y, int health, int attack);
